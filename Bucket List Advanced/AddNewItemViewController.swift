@@ -3,7 +3,6 @@
 //  BucketListcrUD
 //
 //
-
 import UIKit
 
 class AddNewItemViewController: UITableViewController {
@@ -38,4 +37,3 @@ class AddNewItemViewController: UITableViewController {
     }
     
 }
-
